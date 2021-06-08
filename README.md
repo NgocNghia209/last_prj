@@ -16,13 +16,17 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 A: GIAO DIỆN
+
 1: Đây là màn hình đăng nhập:
+
 ![7af9075bc713334d6a02](https://user-images.githubusercontent.com/62504531/121232545-ec126480-c8bb-11eb-820c-06d0b19df127.jpg)
 
 2: Màn hình chính: Home
+
 ![home](https://user-images.githubusercontent.com/62504531/121235285-e36f5d80-c8be-11eb-8341-137c0dde57f8.jpg)
 
 3: Màn hình tìm kiếm 'flower'
+
 ![d4e24903894b7d15245a](https://user-images.githubusercontent.com/62504531/121235324-eec28900-c8be-11eb-9cef-9012bb8908e9.jpg)
 
 
@@ -69,11 +73,13 @@ visible: _status == EmailCardStatus.reset,
 ```dart
 final auth = FirebaseAuth.instance;
 ```
+
 6: Tạo tài khoản mật khẩu nếu chưa có
 ```dart
   final _emailKey = GlobalKey<FormFieldState>();
   final _passwordKey = GlobalKey<FormFieldState>();
 ```
+
 7: Api từ Flickr để lấy ảnh
 ```dart
 final url = Uri.https(
