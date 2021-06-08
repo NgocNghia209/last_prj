@@ -59,6 +59,7 @@ final user = FirebaseAuth.instance.currentUser;
 ```
 
 4:Các màn hình: 
+
 // đăng nhập hệ thống
 ```dart
 visible: _status == EmailCardStatus.login,
@@ -67,7 +68,6 @@ visible: _status == EmailCardStatus.login,
 ```dart
 visible: _status == EmailCardStatus.reset,
 ```
-//
 
 5: Lấy thông tin người dùng từ Firebase
 ```dart
@@ -94,4 +94,6 @@ final url = Uri.https(
       },
     );
 ```
+
+
 
