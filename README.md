@@ -25,12 +25,15 @@ A: GIAO DIỆN
 
 ![home](https://user-images.githubusercontent.com/62504531/121235285-e36f5d80-c8be-11eb-8341-137c0dde57f8.jpg)
 
-3: Màn hình tìm kiếm 'flower'
+3: Màn hình điều hướng
+
+4: Màn hình tìm kiếm 'flower'
 
 ![d4e24903894b7d15245a](https://user-images.githubusercontent.com/62504531/121235324-eec28900-c8be-11eb-9cef-9012bb8908e9.jpg)
 
+5: Màn hình 
 
-
+B: CODE
 
 1. Gọi `WidgetsFlutterBinding.ensureInitialized();` trong main() trước khi gọi `runApp()`:
 
