@@ -27,11 +27,15 @@ A: GIAO DIỆN
 
 3: Màn hình điều hướng
 
+![dieuhuong](https://user-images.githubusercontent.com/62504531/121278324-8e523c80-c8fc-11eb-8457-c24af077207e.jpg)
+
 4: Màn hình tìm kiếm 'flower'
 
 ![d4e24903894b7d15245a](https://user-images.githubusercontent.com/62504531/121235324-eec28900-c8be-11eb-9cef-9012bb8908e9.jpg)
 
-5: Màn hình 
+5: Màn hình chi tiết ảnh
+
+![ba1a532f0d64f93aa075](https://user-images.githubusercontent.com/62504531/121278337-95794a80-c8fc-11eb-91ec-09cc3c460dbc.jpg)
 
 B: CODE
 
